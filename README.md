@@ -31,3 +31,4 @@ https://github.com/[usuario]/[nome-projeto].git
 - [ ] C
 ---
 lembrei do comando: git commit
+lembrei do comando: git status
